@@ -1,5 +1,5 @@
 # JSudokuSolver
-A "one-liner" sudoku solver in the [J programming language](https://en.wikipedia.org/wiki/J_(programming_language))
+A short 225 character sudoku solver in the [J programming language](https://en.wikipedia.org/wiki/J_(programming_language))
 
 Here it is:
 ```
